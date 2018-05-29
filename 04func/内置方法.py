@@ -1,4 +1,12 @@
 # __author__ = "Alex Li"
+
+from collections import Iterable, Iterator
+
+print(isinstance("[1,23]",Iterable)) #是否可以 迭代
+print(isinstance("[1,23]",Iterator)) #是否是迭代器
+#可以 被next()函数调用并不断返回 下一个值 的对象称为迭代器： Iterator
+print(isinstance((x for x in range(5)),Iterable))
+print(isinstance((x for x in range(5)),Iterator))
 #
 # #print( all([1,-5,3]) )
 # #print( any([]) )
@@ -87,4 +95,4 @@
 #     print(i)
 
 #import 'decorator'
-__import__('decorator')
+# __import__('decorator')

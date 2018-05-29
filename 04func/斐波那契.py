@@ -3,7 +3,7 @@ __author__ = "Alex Li"
 def fib(max): #10
     n, a, b = 0, 0, 1
     while n < max: #n<10
-        #print(b)
+        print(b)
         yield b
         a, b = b, a + b
         #a = b     a =1, b=2, a=b , a=2,

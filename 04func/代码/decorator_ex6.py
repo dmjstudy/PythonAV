@@ -11,7 +11,7 @@ username, password = 'deng','1'
 def auth(auth_type):
     def out_wrapper(func):
         def wrapper(*args, **kwargs):
-            UserName = input("please input UserName:").strip( )
+            UserName = input("please input UserName:").strip()
             PassWord = input("please input PassWord:").strip( )
             if UserName == username and PassWord == password:
                 print("\033[32;1m登录成功\033[0m")
