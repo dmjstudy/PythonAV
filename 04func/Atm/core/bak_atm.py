@@ -8,7 +8,7 @@ __mtime__ = '18/05/30 0030'
 """
 
 def load_db():
-    #加载数据
+    #加载数据,测试
     pass
 
 def auth_user():
@@ -16,7 +16,7 @@ def auth_user():
     pass
 
 def view_account_info():
-    pass
+    print("dengminjie 1000元")
 
 def with_draw():
     #取现
