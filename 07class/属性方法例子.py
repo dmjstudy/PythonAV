@@ -23,6 +23,7 @@ class Flight(object):
     @flight_status.setter
     def flight_status(self,status):
         print("flight %s has changed status to %s" %(self.flight_name,status))
+
 f = Flight("CA980")
 f.flight_status
 f.flight_status = 2

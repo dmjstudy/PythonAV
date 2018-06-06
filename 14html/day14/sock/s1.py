@@ -29,7 +29,11 @@ import socket
 def headle_request(client):
     buf = client.recv(1024)
     client.send(bytes("HTTP/1.1 200 OK\r\n\r\n",encoding='utf-8' ))
-    client.send(bytes("Hello, deng", encoding='utf-8'))
+    # client.send(bytes("Hello, deng", encoding='utf-8'))
+    f = open('index.html','rb')
+    data = f.read()
+    f.close()
+    client.send(data)
 
 def main():
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

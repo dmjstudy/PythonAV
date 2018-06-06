@@ -36,8 +36,12 @@ class Dog(object):
 
 #print(Dog.__dict__) #打印类里的所有属性，不包括实例属性
 d = Dog("ChenRonghua")
+d.eat
+d.eat = "baozi"
+d.eat
+
 print(d)
 # print(d.__dict__) #打印所有实例属性，不包括类属性
-# d(1,2,3,name=333)
+d(1,2,3,name=333)
 
 #Dog("ChenRonghua")()

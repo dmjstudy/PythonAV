@@ -17,7 +17,7 @@ choice = input(">>:").strip()
 if hasattr(d,choice):
     getattr(d,choice)
 else:
-    setattr(d,choice,bulk) #d.talk = bulk
+    setattr(d,choice,bulk) #d.talk =  bulk
     func = getattr(d, choice)
     func(d)
 

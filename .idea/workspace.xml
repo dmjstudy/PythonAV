@@ -1,11 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="3c59a42f-9f75-4bf7-942a-eb506a02c095" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/04func/代码/decorator_ex6.py" afterPath="$PROJECT_DIR$/04func/代码/decorator_ex6.py" />
-      <change beforePath="$PROJECT_DIR$/04func/内置方法.py" afterPath="$PROJECT_DIR$/04func/内置方法.py" />
-      <change beforePath="$PROJECT_DIR$/04func/斐波那契.py" afterPath="$PROJECT_DIR$/04func/斐波那契.py" />
+    <list default="true" readonly="true" id="efec9b5d-4ce8-4cec-ab39-dbcbb82ddef0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/config.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ex_configparser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ex_yaml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06class/ex_school/school_main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/z_book/ex_ip.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/z_book/ex_psutil.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/__init__.py" afterPath="$PROJECT_DIR$/05in_module/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/configparser生成模块.py" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/configparser生成模块.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/configparser读.py" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/configparser读.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/.name" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/.name" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/day5-atm.iml" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/day5-atm.iml" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/encodings.xml" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/misc.xml" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/modules.xml" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/05in_module/day5-atm/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/README" afterPath="$PROJECT_DIR$/05in_module/day5-atm/README" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/bin/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/bin/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/bin/atm.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/bin/atm.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/bin/manage.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/bin/manage.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/conf/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/conf/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/conf/settings.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/conf/settings.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/accounts.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/accounts.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/auth.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/auth.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/db_handler.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/db_handler.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/logger.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/logger.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/main.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/main.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/core/transaction.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/core/transaction.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/db/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/db/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/db/account_sample.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/db/account_sample.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/db/accounts/1234.json" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/db/accounts/1234.json" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/log/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/log/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/log/access.log" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/log/access.log" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/atm/log/transactions.log" afterPath="$PROJECT_DIR$/05in_module/day5-atm/atm/log/transactions.log" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5-atm/shopping_mall/__init__.py" afterPath="$PROJECT_DIR$/05in_module/day5-atm/shopping_mall/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/day5.zip" afterPath="$PROJECT_DIR$/05in_module/day5.zip" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex02_random/test1.py" afterPath="$PROJECT_DIR$/05in_module/ex02_random/test1.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex07_shelve/shelve_test.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex07_shelve/shelve_test.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex07_shelve/shelve_test.dir" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex07_shelve/shelve模块.py" afterPath="$PROJECT_DIR$/05in_module/ex07_shelve/shelve模块.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/output.xml" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/output.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/test.xml" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/test.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/xmltest.xml" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/xmltest.xml" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/xml修改.py" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/xml修改.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/xml创建.py" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/xml创建.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex08_xml/xml处理.py" afterPath="$PROJECT_DIR$/05in_module/ex08_xml/xml处理.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex12_logger/example.cfg" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/example.cfg" />
+      <change beforePath="$PROJECT_DIR$/05calc/ex12_logger/example.ini" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/example.ini" />
+      <change beforePath="$PROJECT_DIR$/05calc/ha.conf" afterPath="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ha.conf" />
+      <change beforePath="$PROJECT_DIR$/05calc/hashlib模块.py" afterPath="$PROJECT_DIR$/05in_module/hashlib模块.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/module_alex.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/module_alex.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/module_test/main.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/module_test/main.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/module_test/t.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/module_test/t.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/p_test.py" afterPath="$PROJECT_DIR$/05in_module/p_test.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/package_test/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/package_test/test1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05calc/shutil模块.py" afterPath="$PROJECT_DIR$/05in_module/shutil模块.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/a/__init__.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/a/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/a/b/__init__.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/a/b/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/a/b/c/__init__.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/a/b/c/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/a/test.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/a/test.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/module_test.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/module_test.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/test4/test.py" afterPath="$PROJECT_DIR$/05in_module/ex_module_package/test4/test.py" />
+      <change beforePath="$PROJECT_DIR$/05calc/本节笔记" afterPath="$PROJECT_DIR$/05in_module/本节笔记" />
+      <change beforePath="$PROJECT_DIR$/05calc/笔记2" afterPath="$PROJECT_DIR$/05in_module/笔记2" />
+      <change beforePath="$PROJECT_DIR$/05calc/笔记3" afterPath="$PROJECT_DIR$/05in_module/笔记3" />
+      <change beforePath="$PROJECT_DIR$/06class/本节笔记.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/07class/getitem.py" afterPath="$PROJECT_DIR$/07class/getitem.py" />
+      <change beforePath="$PROJECT_DIR$/07class/反射.py" afterPath="$PROJECT_DIR$/07class/反射.py" />
+      <change beforePath="$PROJECT_DIR$/07class/属性方法.py" afterPath="$PROJECT_DIR$/07class/属性方法.py" />
+      <change beforePath="$PROJECT_DIR$/07class/属性方法例子.py" afterPath="$PROJECT_DIR$/07class/属性方法例子.py" />
+      <change beforePath="$PROJECT_DIR$/14html/day14/sock/index.html" afterPath="$PROJECT_DIR$/14html/day14/sock/index.html" />
+      <change beforePath="$PROJECT_DIR$/14html/day14/sock/s1.py" afterPath="$PROJECT_DIR$/14html/day14/sock/s1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,115 +87,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonAV$decorator_ex6.coverage" NAME="decorator_ex6 Coverage Results" MODIFIED="1527514297562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func/代码" />
-    <SUITE FILE_PATH="coverage/PythonAV$passwd.coverage" NAME="passwd Coverage Results" MODIFIED="1527474584871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
-    <SUITE FILE_PATH="coverage/PythonAV$time_calc.coverage" NAME="time_calc Coverage Results" MODIFIED="1527509912657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dengPKG" />
-    <SUITE FILE_PATH="coverage/PythonAV$interaction.coverage" NAME="interaction Coverage Results" MODIFIED="1527473827362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
-    <SUITE FILE_PATH="coverage/PythonAV$.coverage" NAME="内置方法 Coverage Results" MODIFIED="1527596176584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func" />
-    <SUITE FILE_PATH="coverage/PythonAV$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1527475796311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/PythonAV$string.coverage" NAME="string Coverage Results" MODIFIED="1527477814284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/PythonAV$decorator_ex5.coverage" NAME="decorator_ex5 Coverage Results" MODIFIED="1527512143700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func/代码" />
-    <SUITE FILE_PATH="coverage/PythonAV$decorator.coverage" NAME="decorator高潮版 Coverage Results" MODIFIED="1527511538116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func/代码" />
-    <SUITE FILE_PATH="coverage/PythonAV$names.coverage" NAME="names Coverage Results" MODIFIED="1527476977454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/PythonAV$atm.coverage" NAME="atm Coverage Results" MODIFIED="1527633816045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func/Atm/bin" />
+    <SUITE FILE_PATH="coverage/PythonAV$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1527756250611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14html/day14/sock" />
+    <SUITE FILE_PATH="coverage/PythonAV$school_main.coverage" NAME="school_main Coverage Results" MODIFIED="1528195070923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06class/ex_school" />
+    <SUITE FILE_PATH="coverage/PythonAV$ex_psutil.coverage" NAME="ex_psutil Coverage Results" MODIFIED="1528089657851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_book" />
+    <SUITE FILE_PATH="coverage/PythonAV$xml.coverage" NAME="xml处理 Coverage Results" MODIFIED="1527809582854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05in_module/ex08_xml" />
+    <SUITE FILE_PATH="coverage/PythonAV$getitem.coverage" NAME="getitem Coverage Results" MODIFIED="1528201394613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07class" />
+    <SUITE FILE_PATH="coverage/PythonAV$configparser.coverage" NAME="configparser生成模块 Coverage Results" MODIFIED="1528067516641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05in_module/ex09_configparser_yaml" />
+    <SUITE FILE_PATH="coverage/PythonAV$start.coverage" NAME="start Coverage Results" MODIFIED="1528179058284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06class/AnswerSys/bin" />
+    <SUITE FILE_PATH="coverage/PythonAV$.coverage" NAME="反射 Coverage Results" MODIFIED="1528204594083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07class" />
+    <SUITE FILE_PATH="coverage/PythonAV$ex_yaml.coverage" NAME="ex_yaml Coverage Results" MODIFIED="1528067191551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05in_module/ex06_json_pickle_yaml" />
+    <SUITE FILE_PATH="coverage/PythonAV$ex_ip.coverage" NAME="ex_ip Coverage Results" MODIFIED="1528089014783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_book" />
+    <SUITE FILE_PATH="coverage/PythonAV$string.coverage" NAME="string Coverage Results" MODIFIED="1528182783630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/PythonAV$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1527726542087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05calc/random_test" />
+    <SUITE FILE_PATH="coverage/PythonAV$atm.coverage" NAME="atm Coverage Results" MODIFIED="1527682818033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04func/Atm/bin" />
+    <SUITE FILE_PATH="coverage/PythonAV$shelve.coverage" NAME="shelve模块 Coverage Results" MODIFIED="1527807579730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05in_module/ex07_shelve" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="decorator高潮版.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/代码/decorator高潮版.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="38" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorator_ex6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/代码/decorator_ex6.py">
+      <file leaf-file-name="getitem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07class/getitem.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="斐波那契.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/斐波那契.py">
+      <file leaf-file-name="反射.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07class/反射.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="生成器并行.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/生成器并行.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="内置方法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/内置方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="json序列化.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/代码/json序列化.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/Atm/conf/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/Atm/core/main.py">
+      <file leaf-file-name="sock_server_client.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08socket/sock_server_client.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="9" />
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.text" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04func/test.text">
+      <file leaf-file-name="socket_server 基本.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08socket/socket_server 基本.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="atm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04func/Atm/bin/atm.py">
+      <file leaf-file-name="parse.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/program/python35x64/Lib/urllib/parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="185">
+              <caret line="711" column="0" lean-forward="false" selection-start-line="711" selection-start-column="0" selection-end-line="711" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/program/python35x64/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,25 +173,47 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;html\&gt;\n\&lt;head\&gt;\n    \&lt;body\&gt;\n    \&lt;h1 style\=\'background\-color\:red\;\'\&gt;\@\@\@\@\@\&lt;h1\&gt;\n\&lt;a href\=\'http\:\/\/www\.oldboyedu\.com\'\&gt;走你\&lt;\/a\&gt;\n\&lt;table border\=\'1\'\&gt;\n    \&lt;tr\&gt;\n        \&lt;td\&gt;1\&lt;\/td\&gt;\n        \&lt;td\&gt;2\&lt;\/td\&gt;\n        \&lt;td\&gt;3\&lt;\/td\&gt;\n    \&lt;\/tr\&gt;\n    \&lt;tr\&gt;\n        \&lt;td\&gt;1\&lt;\/td\&gt;\n        \&lt;td\&gt;2\&lt;\/td\&gt;\n        \&lt;td\&gt;3\&lt;\/td\&gt;\n    \&lt;\/tr\&gt;\n\&lt;table\&gt;\n\&lt;\/body\&gt;\n\&lt;\/head\&gt;\n\&lt;\/html\&gt;\n</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\drudy\C2Code\1Python\PythonAV\05calc\test4</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dmjstudy &lt;dmjstudy@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01/interaction.py" />
-        <option value="$PROJECT_DIR$/01/passwd.py" />
-        <option value="$PROJECT_DIR$/01/deng.py" />
-        <option value="$PROJECT_DIR$/02/dictionary.py" />
-        <option value="$PROJECT_DIR$/02/names.py" />
-        <option value="$PROJECT_DIR$/04func/代码/decorator1.py" />
-        <option value="$PROJECT_DIR$/dengPKG/time_calc.py" />
-        <option value="$PROJECT_DIR$/04func/代码/decorator高潮版.py" />
-        <option value="$PROJECT_DIR$/04func/代码/decorator_ex5.py" />
-        <option value="$PROJECT_DIR$/04func/代码/decorator_ex6.py" />
-        <option value="$PROJECT_DIR$/04func/斐波那契.py" />
-        <option value="$PROJECT_DIR$/04func/内置方法.py" />
         <option value="$PROJECT_DIR$/04func/Atm/bin/atm.py" />
+        <option value="$PROJECT_DIR$/04func/Atm/core/bak_atm.py" />
+        <option value="$PROJECT_DIR$/04func/Atm/core/main.py" />
+        <option value="$PROJECT_DIR$/04func/Atm/bin/__init__.py" />
+        <option value="$PROJECT_DIR$/05calc/random_test/test1.py" />
+        <option value="$PROJECT_DIR$/14html/day14/sock/s1.py" />
+        <option value="$PROJECT_DIR$/14html/day14/sock/index.html" />
+        <option value="$PROJECT_DIR$/05in_module/ex07_shelve/shelve模块.py" />
+        <option value="$PROJECT_DIR$/05in_module/ex08_xml/xmltest.xml" />
+        <option value="$PROJECT_DIR$/05in_module/ex08_xml/xml处理.py" />
+        <option value="$PROJECT_DIR$/05in_module/ex08_xml/xml修改.py" />
+        <option value="$PROJECT_DIR$/05in_module/ex06_json_pickle_yaml/ex_yaml.py" />
+        <option value="$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ex_configparser.py" />
+        <option value="$PROJECT_DIR$/z_book/ex_ip.py" />
+        <option value="$PROJECT_DIR$/z_book/ex_psutil.py" />
+        <option value="$PROJECT_DIR$/06class/AnswerSys/bin/start.py" />
+        <option value="$PROJECT_DIR$/06class/ex_school/school_main.py" />
+        <option value="$PROJECT_DIR$/07class/属性方法例子.py" />
+        <option value="$PROJECT_DIR$/07class/属性方法.py" />
+        <option value="$PROJECT_DIR$/07class/getitem.py" />
+        <option value="$PROJECT_DIR$/07class/反射.py" />
+        <option value="$PROJECT_DIR$/08socket/sock_server_client.py" />
       </list>
     </option>
   </component>
@@ -166,38 +223,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="692" />
-    <option name="y" value="61" />
-    <option name="width" value="1560" />
-    <option name="height" value="1003" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2278" />
+    <option name="y" value="81" />
+    <option name="width" value="1517" />
+    <option name="height" value="1002" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Probable bugsCSS</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -225,54 +257,16 @@
             <path>
               <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
+              <item name="08socket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
-              <item name="Atm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
-              <item name="Atm" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
-              <item name="Atm" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
-              <item name="Atm" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="04func" type="462c0819:PsiDirectoryNode" />
-              <item name="代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAV" type="462c0819:PsiDirectoryNode" />
-              <item name="dengPKG" type="462c0819:PsiDirectoryNode" />
+              <item name="z_book" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="PythonAV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.5.4 (D:\program\python35x64\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -283,28 +277,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="last_opened_file_path" value="C:/Python27/ArcGIS10.1/python.exe" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-      </console-settings>
-    </option>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="atm" />
+    </force-push-targets>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\drudy\C2Code\1Python\PythonAV\04func\代码" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\05in_module\ex06_json_pickle_yaml" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\drudy\C2Code\1Python\PythonAV\17" />
-      <recent name="E:\drudy\C2Code\1Python\PythonAV\15" />
-      <recent name="E:\drudy\C2Code\1Python\PythonAV" />
-      <recent name="E:\drudy\C2Code\1Python\PythonAV\02" />
-      <recent name="E:\drudy\C2Code\1Python\PythonAV\01" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\05in_module\ex09_configparser_yaml" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\05in_module\ex09_configparser" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\05in_module\ex_module_package" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\14html" />
+      <recent name="E:\drudy\C2Code\1Python\PythonAV\05calc\ex07_shelve" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,135 +309,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.atm">
-    <configuration name="内置方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.反射">
+    <configuration name="属性方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonAV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04func/内置方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07class/属性方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="atm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="属性方法例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04func/Atm/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonAV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04func/Atm/bin/atm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07class/属性方法例子.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decorator高潮版" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="反射" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04func/代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonAV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04func/代码/decorator高潮版.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07class/反射.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decorator_ex5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getitem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04func/代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonAV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04func/代码/decorator_ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07class/getitem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decorator_ex6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="school_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04func/代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06class/ex_school" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonAV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04func/代码/decorator_ex6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="time_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dengPKG" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonAV" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dengPKG/time_calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06class/ex_school/school_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.time_calc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.decorator_ex5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.decorator_ex6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.内置方法" />
-      <item index="4" class="java.lang.String" itemvalue="Python.atm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.school_main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.属性方法" />
+      <item index="2" class="java.lang.String" itemvalue="Python.属性方法例子" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getitem" />
+      <item index="4" class="java.lang.String" itemvalue="Python.反射" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.atm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.内置方法" />
-        <item index="2" class="java.lang.String" itemvalue="Python.decorator_ex6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.decorator_ex5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.time_calc" />
+        <item index="0" class="java.lang.String" itemvalue="Python.反射" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getitem" />
+        <item index="2" class="java.lang.String" itemvalue="Python.属性方法" />
+        <item index="3" class="java.lang.String" itemvalue="Python.属性方法例子" />
+        <item index="4" class="java.lang.String" itemvalue="Python.school_main" />
       </list>
     </recent_temporary>
   </component>
@@ -460,36 +431,58 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c59a42f-9f75-4bf7-942a-eb506a02c095" name="Default" comment="" />
-      <created>1527471935088</created>
+      <changelist id="efec9b5d-4ce8-4cec-ab39-dbcbb82ddef0" name="Default" comment="" />
+      <created>1527635318717</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527471935088</updated>
+      <updated>1527635318717</updated>
     </task>
+    <task id="LOCAL-00001" summary="大概写了一下购物的内容">
+      <created>1527690506095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527690506096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="整理了一个05，添加了14文件夹">
+      <created>1527754582740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527754582741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="socket初始化">
+      <created>1527755843381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527755843381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="692" y="61" width="1560" height="1003" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.50268817" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34458673" sideWeight="0.5072712" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48108748" sideWeight="0.49731183" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286052" sideWeight="0.49765572" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34458673" sideWeight="0.49272883" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31813127" sideWeight="0.4919355" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12313433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42434987" sideWeight="0.4968666" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34927696" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -499,648 +492,425 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="大概写了一下购物的内容" />
+    <MESSAGE value="整理了一个05，添加了14文件夹" />
+    <MESSAGE value="socket初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="socket初始化" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02/dictionary.py</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/07class/属性方法例子.py</url>
+          <line>26</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02/string.py</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/07class/属性方法.py</url>
+          <line>44</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
+          <url>file://$PROJECT_DIR$/07class/getitem.py</url>
           <line>16</line>
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator高潮版.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex5.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex6.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex6.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex6.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04func/代码/decorator_ex6.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="55" />
+          <url>file://$PROJECT_DIR$/07class/反射.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="56" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>status</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/models.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/ex_module_package/module_test/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/tests.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/ex_module_package/module_test/t.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/views.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/ex_module_package/module_alex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/s14django/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/s14django/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/passwd.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/shutil模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/var.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/ex08_xml/xml处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex08_xml/xmltest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex08_xml/xml修改.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python35x64/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="57" column="65" lean-forward="false" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/config.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/dictionary.py">
+    <entry file="file://D:/program/python35x64/Lib/site-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ex_yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/example.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/example.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/example.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ha.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/configparser读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/configparser生成模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/ex09_configparser_yaml/ex_configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z_book/ex_ip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/guess任性玩.py">
+    <entry file="file://$PROJECT_DIR$/z_book/ex_psutil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+        <state relative-caret-position="462">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/interaction_print_format.py">
+    <entry file="file://$PROJECT_DIR$/06class/cs play.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="-760">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/guess_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/deng.py">
+    <entry file="file://$PROJECT_DIR$/06class/AnswerSys/core/models_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/guess任性玩.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/passwd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/var.py">
+    <entry file="file://$PROJECT_DIR$/06class/AnswerSys/conf/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/coding.py">
+    <entry file="file://$PROJECT_DIR$/06class/AnswerSys/core/models_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/dictionary.py">
+    <entry file="file://$PROJECT_DIR$/06class/AnswerSys/core/src.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06class/本节笔记.py" />
+    <entry file="file://$PROJECT_DIR$/04func/生成器并行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04func/内置方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1728">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/day5-atm/atm/bin/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/day5-atm/atm/bin/atm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/day5-atm/atm/core/db_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05in_module/day5-atm/atm/core/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02/string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/list_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="50" column="19" lean-forward="false" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/list1_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/3level_menus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01while_for/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17jQuery/a day17.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5649">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15html_js/day15.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1650">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17jQuery/jquery-1.12.4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17jQuery/s1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/openstack/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/s14django/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/s14django/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s14django/s14django/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/list_shopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dengPKG/time_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator_ex5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator_ex6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/decorator高潮版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="-12">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04func/斐波那契.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04func/生成器并行.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/内置方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/test.text">
+    <entry file="file://$PROJECT_DIR$/04func/代码/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04func/代码/json序列化.py">
+    <entry file="file://$PROJECT_DIR$/05in_module/day5-atm/atm/core/accounts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04func/Atm/core/main.py">
+    <entry file="file://$PROJECT_DIR$/06class/AnswerSys/bin/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1015769307/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="800" column="8" lean-forward="false" selection-start-line="800" selection-start-column="8" selection-end-line="800" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07class/属性方法例子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06class/ex_school/liuchengtu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06class/ex_school/school_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06class/继承-学校.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="56" column="64" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="56" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07class/属性方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07class/getitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python35x64/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python35x64/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="711" column="0" lean-forward="false" selection-start-line="711" selection-start-column="0" selection-end-line="711" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07class/反射.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08socket/socket_server 基本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python35x64/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="128" column="8" lean-forward="false" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08socket/sock_server_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="9" />
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04func/Atm/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04func/Atm/bin/atm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -18,7 +18,7 @@ obj = Foo()
 obj['name'] = "alex"
 # print(obj['name'])
 # print(obj.data)
-del obj["sdfdsf"]
+del obj["name"]
 # result = obj['k1']  # 自动触发执行 __getitem__
 # obj['k2'] = 'alex'  # 自动触发执行 __setitem__
 # del obj['k1']
