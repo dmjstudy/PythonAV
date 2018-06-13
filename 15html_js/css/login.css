@@ -1,0 +1,93 @@
+body{
+    margin: 0 auto;
+    background-color:#227446 ;
+}
+div{
+    border-radius:10px;
+}
+#logo{
+    position: absolute;
+    width: 228px;
+    height: 61px;
+    margin-top: 130px;
+    left: 50%;
+    margin-left: -114px;
+    background-color: white;
+}
+
+#box{
+    position: absolute;
+    width: 550px;
+	height: 378px;
+    margin-top: 246px;
+    left: 50%;
+    margin-left: -275px;
+    background-color: white;
+}
+
+#box_title{
+    line-height: 80px;
+    font-size: 36px;
+    text-align: center;
+}
+
+#box_input{
+    background-color: #f1f1f1;
+    width: 488px;
+	height: 260px;
+    margin-left:32px;
+    position: relative;
+}
+
+#box_userL{
+    background-color: white;
+    width: 310px;
+    height: 40px;
+        position: absolute;
+        left: 90px;
+        top: 40px;
+}
+
+.box_icon{
+    width: 39px;
+	height: 40px;
+    line-height: 36px;
+    border-left:solid 5px #e9c382;
+    text-align: center;
+    vertical-align: center;
+    display: inline-block;
+}
+.box_line_input{
+    border: 1px solid black;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    width: 258px;
+}
+
+#box_userP{
+    background-color: white;
+    width: 310px;
+    height: 40px;
+    position: absolute;
+    left: 90px;
+    top: 95px;
+}
+
+#box_button{
+    background-color: #438a62;
+    width: 310px;
+	height: 40px;
+    position: absolute;
+    left: 90px;
+    top: 153px;
+    line-height: 36px;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+}
+
+
+.shadow{
+    box-shadow: 10px 10px 5px #20643f;
+}

@@ -11,10 +11,10 @@ while True:
     if len(cmd) == 0: continue
     if cmd.startswith("get"):
         client.send(cmd.encode())
-        server_response = client.recv(1024)
-        print("servr response:", server_response)
-        client.send(b"ready to recv file")
-        file_total_size = int(server_response.decode())
+        server_response = client.recv(1024)  # receive the file size  data  from sever
+        print("servr response:", server_response)  #print  the number of file size
+        client.send(b"ready to recv file") #reply client  ready to  receive  the data
+        file_total_size = int(server_response.decode())  #binary  data transform  the int data
         received_size = 0
         filename = cmd.split()[1]
         f = open(filename + ".new", "wb")

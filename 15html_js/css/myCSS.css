@@ -1,0 +1,116 @@
+body{
+    /*margin: 0 auto;*/
+}
+
+#head{
+    height: 120px;
+    width: 1200px;
+    background-color: #bff6f6;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+#content{
+    height: 5000px;
+    width: 960px;
+    background-color: #66afe9;
+    margin: auto;
+    margin-top:140px;
+
+}
+
+#footer{
+    height: 150px;
+    width: 960px;
+    background-color: #c7254e;
+    margin: 0 auto;
+}
+
+#div_menu{
+    display: inline-block;
+}
+#head .menu{
+    height: 48px;
+    font-size: 24px;
+    display: inline-block;
+    padding: 16px;
+}
+#head .menu:hover{
+    background-color: blue;
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: yellow;
+}
+
+.top_box{
+    width: 940px;
+    height: 200px;
+    background-color: yellow;
+    border: 10px solid blue;
+    position: relative;
+    margin: 0 auto;
+
+}
+.top_box_inner{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+}
+
+#box_inner1{
+    left: 0;
+    bottom: 0;
+}
+
+#box_inner2{
+    right: 0;
+    top: 0;
+}
+
+#box_inner3{
+    left: 0;
+    top: 0;
+}
+
+#div_cover{
+    display: none;
+    position: fixed;
+    z-index: 10;
+    top:0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    background-color: black;
+    opacity: 0.6;
+}
+#div_massage{
+    display: none;
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    z-index: 11;
+    top:50%;
+    left:50%;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.img1{
+    background-image:url("../img/icon_18_118.png");
+    background-repeat: no-repeat;
+    height: 20px;
+    border: 1px;
+    background-position: 0px -18px;
+    /*display: inline-block;*/
+}

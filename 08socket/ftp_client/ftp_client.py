@@ -13,7 +13,7 @@ class FtpClient(object):
         msg = '''
         ls
         pwd
-        cd ../..
+        cd ../.. 
         get filename
         put filename
         '''

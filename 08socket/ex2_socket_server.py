@@ -17,7 +17,7 @@ conn, addr = server.accept( )  # 等电话打入
 while True:
     print(conn,addr)
     print("指令来了")
-    data = conn.recv(1024000)
+    data = conn.recv(1024)
     if data.decode('utf-8') =='end':
         over_msg = "服务器已关闭"
         conn.send(over_msg.encode('utf-8'))
@@ -26,8 +26,9 @@ while True:
         break
     else:
         print("server_resv:",data.decode('utf-8'))
-        res = os.popen(data.decode('utf-8')).read( )
-        if len(res) == 0:
+        cmd_res = os.popen(data.decode('utf-8')).read()
+        res = str(len(cmd_res.encode()))
+        if len(cmd_res) == 0:
             res = "error"
         conn.send(res.encode('utf-8'))
         # try:
